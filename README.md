@@ -1,4 +1,4 @@
-# Study Planner MVP
+# Study Planner
 
 ## Пітч
 
